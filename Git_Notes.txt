@@ -1,0 +1,11 @@
+                                    Git and GitHub
+Git- Git is a tool to track the history of the code.
+GitHub- GitHub is a software to manage and upload the code on the cloud using git.
+
+Git Commmands :-
+git --version - To check the version of the git.
+git config --global user.name"" - To add a name of the developer.
+git config --global user.email"" - To add a email of the developer.
+git config --list - To check the name email or anything else added in the git.
+git clone "link of the code (https)" - To clone the already existed repo from GitHub to PC.
+git status - To display the state of the code\
